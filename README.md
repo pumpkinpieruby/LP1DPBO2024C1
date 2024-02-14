@@ -29,9 +29,18 @@ Program ini memiliki 1 Primary key yang diwakili oleh ID, ini berguna untuk meng
 ## Dokumentasi
 
 ### Dokumentasi PHP
+![dokum php](PHP/ss/ss1.png)
+![dokum php](PHP/ss/ss2.png)
+![dokum php](PHP/ss/ss3.png)
+![dokum php](PHP/ss/ss4.png)
+![dokum php](PHP/ss/ss5.png)
 
+* `notes : untuk bagian edit tidak ada dikarenakan code masih error t__t`
 ### Dokumentasi CPP
+![dokum cpp](<CPP/Screenshot 2024-02-07 223924.png>)
 
 ### Dokumentasi Java
+![dokum java](java/ss.png)
 
 ### Dokumentasi Python
+![dokum py](python/ss.png)
